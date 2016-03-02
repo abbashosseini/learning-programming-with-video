@@ -1,0 +1,12 @@
+﻿الحاق کردن دو Array با تابع Concat
+
+طرز کار این تابع کمی متفاوت با تابع های دیگر است زیرا به هیچ تابع ساختگی 
+
+اثر نمی گذارد و بلکه باید مقدار بدست آرایه دیگر ریخته شود.
+
+مانند :
+var dotp30=[20,10,45,65,32,12,11];//ActionScript
+var dotpc=["abbas","ali","adel"];//ActionScript
+var newdotp30=dotp30.concat(dotpc);//Action Script
+trace(newdotp30);//Action Script
+
