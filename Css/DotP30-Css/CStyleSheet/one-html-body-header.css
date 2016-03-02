@@ -1,0 +1,43 @@
+/*  www.DotP30.co.cc  */
+/* Ho33eini@Gmail.Com*/
+html{
+	background:url(../Img/Htmlcss.jpg);
+	background-attachment:fixed;
+	background-color:#000;
+	background-position:left;
+	background-repeat:repeat-y;
+	margin:5em;
+	margin-top:-0.75em;
+	margin-bottom:-0.75em;
+	}body{
+	background:url(../Img/body.jpg);
+	background-repeat:repeat-x;
+	background-attachment:fixed;
+	border:outset 5px;
+	border-color:#666;
+	width:950px;
+	height:auto;
+	direction:rtl;
+}#colorlinkline{
+	color:#CCC;
+	padding:1em;
+	padding-bottom:0;
+}a{
+	color:#FC3;
+	text-decoration:none;
+	font-size:19px;
+	padding:1em;
+}#menu{
+	padding-right:2em;
+	padding-left:2em;
+}#menu:hover{
+	color:#FFF;
+	font-weight:bold;
+}#menu:active{
+	color:#F00;
+}#header{
+	border-bottom:inset;
+	border-top:inset;
+	border-color:#666;
+	width:950px;
+}

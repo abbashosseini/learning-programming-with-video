@@ -1,0 +1,72 @@
+/* Www.DotP30.co.cc */
+/* Ho33eini@Gmail.Com */
+#h3dis{
+	background:url(../Img/Side.png);
+	padding:0.5em;
+	padding-bottom:0;
+	text-align:center;
+	margin-right:-0.5em;
+	width:100px;
+	height:30px;
+	border:inset 2px;
+	border-right:0;
+}td div{
+	background:url(../Img/sidebar.jpg);
+	padding-top:0.10em;
+	border:outset;
+	margin-bottom:1.20em;
+	width:200px;
+}td{
+	vertical-align:text-top;
+}td #headmatlab{
+	background:url(../Img/Side.png);
+	border:outset 2px;
+	padding:0.5em;
+	padding-top:0.25em;
+	padding-bottom:0.25em;
+}#tdmatlab{
+	width:730px;
+	height:auto;
+	padding:2em;
+	padding-top:0;
+	vertical-align:top;
+}div #menuside{
+	color:#069;
+}#menuside:hover{
+	color:#C63;
+}#menuside:active{
+	color:#F00;
+}#textbaxuser{
+	text-decoration:none;
+	margin-right:1.5em;
+}#textbaxuser:active{
+	text-decoration:underline;
+	text-transform:uppercase;
+	padding-bottom:0.5em;
+}#align-checkbax{
+	margin-right:1.5em;
+}p{
+	background:url(../Img/sidebar.jpg);
+	border:outset;
+	padding:1em;
+	padding-top:0.5em;
+	padding-bottom:0.5em;
+	font:Tahoma, Geneva, sans-serif;
+	font-size:16px;
+	color:#336;
+	line-height:1.75em;
+}span{
+	color:#063;
+	font:Verdana, Geneva, sans-serif;
+	font-size:20px;
+}span:active{
+	font-size:40px;
+	line-height:50px;
+}#footer{
+	background:none;	
+	border:none;
+	text-align:center;
+	color:#F93;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-weight:bold;
+}
